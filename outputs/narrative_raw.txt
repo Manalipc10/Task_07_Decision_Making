@@ -1,0 +1,24 @@
+Sure thing! To craft a detailed, data‑driven narrative that highlights the Syracuse Women’s Lacrosse team’s 2024 season—pinpointing period‑by‑period strengths and weaknesses, shooting trends, defensive performance, turnovers, free‑position efficiency, and how the team behaved in high‑ vs. low‑stakes situations—I’ll need the specific statistics you’d like me to work from.
+
+Typical data points that are most useful for this kind of analysis include:
+
+| Category | Specific Metrics |
+|----------|-------------------|
+| **Period‑by‑Period** | Goals per period, shots per period, face‑off win % by period, saves per period |
+| **Shooting** | Total shots, shots on goal (SOG), shooting % (SOG/Total Shots), goals per shooter, shooting % by zone (15‑yard, 10‑yard, crease) |
+| **Defense** | Goals allowed, saves, save % (Saves/Shots on Goal), ground balls, caused turnovers, penalty minutes |
+| **Turnovers** | Turnovers committed, turnovers forced, turnover margin |
+| **Free‑Position Efficiency** | Power‑play (man‑up) conversion %, man‑down (penalty kill) success %, number of man‑up/men‑down opportunities |
+| **High‑Stakes vs. Low‑Stakes** | Performance in conference games, ranked opponents, tournament play vs. non‑conference or early‑season games (e.g., goals, shooting %, turnovers, save %). |
+| **Additional Context** | Player injuries, roster changes, coaching adjustments, schedule density (back‑to‑back games, travel). |
+
+If you can share any or all of those numbers (or a spreadsheet, CSV excerpt, or summary table), I’ll dive right in and produce a narrative that:
+
+1. **Breaks down each period** – showing where the team surged or stalled.
+2. **Analyzes shooting efficiency** – identifying hot shooters, shot selection, and areas for improvement.
+3. **Evaluates defensive performance** – highlighting strong goalkeeping, pressure, and any lapses.
+4. **Examines turnover trends** – who protected the ball and who forced the most turnovers.
+5. **Assesses free‑position (man‑up/men‑down) execution** – conversion and kill rates, plus situational effectiveness.
+6. **Compares high‑stakes vs. low‑stakes games** – revealing whether the team rose to the occasion or needs a mental edge.
+
+Just drop the stats here, and I’ll turn them into a compelling season narrative complete with actionable insights and recommendations. Looking forward to the data!

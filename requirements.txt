@@ -1,0 +1,14 @@
+# PDF handling
+PyPDF2==3.0.1
+
+# Data manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+
+# Groq API (for narrative generation)
+groq
+
+python-dotenv
